@@ -47,7 +47,8 @@ class MOONTON:
     self.loop = 0
     print('''\033[0m
 
-🅲🅷🅴🅲🅺🅴🆁 🅼🅾🅾🅽🆃🅾🅽
+【﻿Ｍｏｏｎｔｏｎ　ｃｈｅｃｋｅｒ】
+
 ---------------------------------------------
           -Recode by Kelibo Gaming
           - Created By (DulLah) -
