@@ -47,10 +47,12 @@ class MOONTON:
     self.loop = 0
     print('''\033[0m
 
-       【﻿Ｍｏｏｎｔｏｎ　ｃｈｅｃｋｅｒ】
+
+|V| _  _ __ _|_ _ __    /  |_  _  _  |  _  __
+| |(_)(_)| | |_(_)| |   \__| |(/_(_  |<(/_ |
 
 ---------------------------------------------
-          -Recode by Kelibo Gaming
+         - Recode by Kelibo Gaming -
           - Created By (DulLah) -
 ---------------------------------------------\n''')
   def auto_upper(self, string):
