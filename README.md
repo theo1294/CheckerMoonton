@@ -1,4 +1,4 @@
-# CheckerMoonton
+# Install
 
 pkg update && pkg upgrade
 
