@@ -10,4 +10,4 @@ git clone https://github.com/KeliboGaming/CheckerMoonton
 
 cd CheckerMoonton
 
-python Moonton.py
+python moonton.py
