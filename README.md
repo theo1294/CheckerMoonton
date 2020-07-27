@@ -1,4 +1,4 @@
-#Checker Moonton
+#CheckerMoonton
 
 pkg update && pkg upgrade
 
