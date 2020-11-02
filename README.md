@@ -14,4 +14,4 @@ python moonton.py
 
 # SUBSCRIBE NOW
 
-![IMG](yt.jpg)
+![IMG](yt.png)
