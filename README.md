@@ -11,3 +11,7 @@ git clone https://github.com/KeliboGaming/CheckerMoonton
 cd CheckerMoonton
 python moonton.py
 ```
+
+# SUBSCRIBE NOW
+
+! [IMG](yt.jpg)
