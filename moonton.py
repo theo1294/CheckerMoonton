@@ -48,15 +48,15 @@ class MOONTON:
     print('''\033[0m
 
 
-|V| _  _ __ _|_ _ __    /  |_  _  _  |  _  __
-| |(_)(_)| | |_(_)| |   \__| |(/_(_  |<(/_ |
-
+ -------------------------------------------- 
+    
+█▀▄▀█ █▀█ █▀█ █▄░█ ▀█▀ █▀█ █▄░█
+█░▀░█ █▄█ █▄█ █░▀█ ░█░ █▄█ █░▀█
 ---------------------------------------------
-   Selamat Datang Di Tools Checker Moonton !
-         - Youtube : Kelibo Gaming -
-         - Recode by Kelibo Gaming -
-          - Created By (DulLah) -
----------------------------------------------\n''')
+|      •>> DEV  : Kelibo Gaming
+|      •>> Whatsapp : 081554414321
+|      •>> Youtube : https://www.youtube.com/c/KeliboGaming
+|---------------------------------------------\n''')
   def auto_upper(self, string):
     text = ''.join(
       re.findall(
