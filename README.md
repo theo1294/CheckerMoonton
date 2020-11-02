@@ -1,4 +1,6 @@
-CHECKER MOONTON
+# MOONTON ACCOUNT CHECKER
+
+! [IMG]
 
 pkg update && pkg upgrade
 pkg install python git
